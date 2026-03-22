@@ -66,3 +66,13 @@ The project is structured as a Jupyter Notebook (`DV0101EN-Final-Assign-Part1-v1
 ### Prerequisites
 
 Make sure you have Python 3.x installed on your system. It is recommended to use a virtual environment.
+
+## License
+This project is for educational purposes as part of an IBM Data Visualization course. The dataset is provided by IBM for the course.
+
+## Author
+**Puneet Tiwari**
+
+## Acknowledgments
+IBM Data Visualization Course
+Skills Network Learning Platform
